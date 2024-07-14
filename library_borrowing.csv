@@ -1,0 +1,51 @@
+BookID,UserID,BorrowDate,ReturnDate,BookTitle,Author,Genre,UserAge,UserGender
+1,101,2023-01-05,2023-01-12,The Great Gatsby,F. Scott Fitzgerald,Fiction,25,Male
+2,102,2023-01-07,2023-01-20,To Kill a Mockingbird,Harper Lee,Fiction,34,Female
+3,103,2023-01-10,2023-01-18,1984,George Orwell,Science Fiction,45,Male
+4,104,2023-01-12,2023-01-22,Pride and Prejudice,Jane Austen,Romance,29,Female
+5,105,2023-01-15,2023-01-25,The Catcher in the Rye,J.D. Salinger,Fiction,19,Male
+6,106,2023-01-18,2023-01-28,Brave New World,Aldous Huxley,Science Fiction,50,Female
+7,107,2023-01-20,2023-01-27,The Hobbit,J.R.R. Tolkien,Fantasy,40,Male
+8,108,2023-01-22,2023-02-01,Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,33,Female
+9,109,2023-01-25,2023-02-04,Moby Dick,Herman Melville,Adventure,55,Male
+10,110,2023-01-28,2023-02-05,War and Peace,Leo Tolstoy,Historical Fiction,60,Female
+11,111,2023-02-01,2023-02-10,The Adventures of Sherlock Holmes,Arthur Conan Doyle,Mystery,27,Male
+12,112,2023-02-05,2023-02-15,The Da Vinci Code,Dan Brown,Thriller,35,Female
+13,113,2023-02-07,2023-02-17,The Shining,Stephen King,Horror,43,Male
+14,114,2023-02-10,2023-02-20,The Fault in Our Stars,John Green,Romance,21,Female
+15,115,2023-02-13,2023-02-23,The Hunger Games,Suzanne Collins,Dystopian,24,Male
+16,116,2023-02-16,2023-02-26,The Maze Runner,James Dashner,Dystopian,29,Female
+17,117,2023-02-18,2023-02-28,Dracula,Bram Stoker,Horror,52,Male
+18,118,2023-02-21,2023-03-01,Frankenstein,Mary Shelley,Science Fiction,44,Female
+19,119,2023-02-25,2023-03-05,The Chronicles of Narnia,C.S. Lewis,Fantasy,31,Male
+20,120,2023-03-01,2023-03-10,The Girl with the Dragon Tattoo,Stieg Larsson,Thriller,38,Female
+21,121,2023-03-03,2023-03-12,Gone Girl,Gillian Flynn,Thriller,46,Male
+22,122,2023-03-06,2023-03-15,The Alchemist,Paulo Coelho,Fiction,28,Female
+23,123,2023-03-08,2023-03-18,Life of Pi,Yann Martel,Adventure,36,Male
+24,124,2023-03-11,2023-03-21,The Book Thief,Markus Zusak,Historical Fiction,41,Female
+25,125,2023-03-15,2023-03-25,The Road,Cormac McCarthy,Dystopian,54,Male
+26,126,2023-03-17,2023-03-27,The Kite Runner,Khaled Hosseini,Fiction,32,Female
+27,127,2023-03-20,2023-03-30,A Game of Thrones,George R.R. Martin,Fantasy,47,Male
+28,128,2023-03-23,2023-04-02,The Handmaid's Tale,Margaret Atwood,Dystopian,26,Female
+29,129,2023-03-25,2023-04-05,The Catch-22,Joseph Heller,Satire,39,Male
+30,130,2023-03-28,2023-04-08,The Giver,Lois Lowry,Dystopian,22,Female
+31,131,2023-04-01,2023-04-10,The Secret Garden,Frances Hodgson Burnett,Children's,30,Male
+32,132,2023-04-03,2023-04-12,The Lion, the Witch and the Wardrobe,C.S. Lewis,Fantasy,49,Female
+33,133,2023-04-06,2023-04-15,The Hitchhiker's Guide to the Galaxy,Douglas Adams,Science Fiction,37,Male
+34,134,2023-04-09,2023-04-18,The Time Traveler's Wife,Audrey Niffenegger,Romance,42,Female
+35,135,2023-04-12,2023-04-20,The Godfather,Mario Puzo,Crime,53,Male
+36,136,2023-04-15,2023-04-25,Lord of the Flies,William Golding,Fiction,48,Female
+37,137,2023-04-18,2023-04-27,The Curious Incident of the Dog in the Night-Time,Mark Haddon,Mystery,50,Male
+38,138,2023-04-21,2023-04-30,The Stand,Stephen King,Horror,29,Female
+39,139,2023-04-25,2023-05-05,The Picture of Dorian Gray,Oscar Wilde,Gothic,31,Male
+40,140,2023-04-28,2023-05-08,The Count of Monte Cristo,Alexandre Dumas,Adventure,39,Female
+41,141,2023-05-01,2023-05-10,The Grapes of Wrath,John Steinbeck,Fiction,56,Male
+42,142,2023-05-03,2023-05-13,The Adventures of Huckleberry Finn,Mark Twain,Adventure,27,Female
+43,143,2023-05-06,2023-05-16,The Old Man and the Sea,Ernest Hemingway,Fiction,35,Male
+44,144,2023-05-09,2023-05-19,The Road Not Taken,Robert Frost,Poetry,43,Female
+45,145,2023-05-12,2023-05-22,The Sun Also Rises,Ernest Hemingway,Fiction,41,Male
+46,146,2023-05-15,2023-05-25,The Hunchback of Notre-Dame,Victor Hugo,Gothic,52,Female
+47,147,2023-05-18,2023-05-28,The Brothers Karamazov,Fyodor Dostoevsky,Philosophical Fiction,37,Male
+48,148,2023-05-21,2023-05-31,The Stranger,Albert Camus,Philosophical Fiction,45,Female
+49,149,2023-05-24,2023-06-03,The Bell Jar,Sylvia Plath,Fiction,33,Male
+50,150,2023-05-27,2023-06-06,The Great Expectations,Charles Dickens,Fiction,44,Female
